@@ -1,4 +1,4 @@
-package Argumentos;
+package argumentos;
 import java.util.Locale;
 import java.util.Scanner;
 
